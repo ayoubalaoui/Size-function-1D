@@ -1,5 +1,4 @@
-
-// SizeFunction.cppÂ : dÃ©finit le point d'entrÃ©e pour l'application console.
+// SizeFunction.cpp : définit le point d'entrée pour l'application console.
 //
 
 #include "stdafx.h"
